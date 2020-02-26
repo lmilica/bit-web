@@ -1,0 +1,85 @@
+#naslov {
+  width: 100%;
+  position: absolute;
+  top: 7%;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  color: white; }
+
+#baner {
+  width: 100%; }
+
+#studio {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto; }
+  #studio h3 span {
+    color: orange; }
+
+#glavni {
+  position: absolute;
+  top: 30%;
+  left: 32%;
+  width: 40%;
+  text-align: center;
+  color: white; }
+  #glavni p {
+    font-size: 20px; }
+  #glavni h1 span {
+    color: #db9a20; }
+
+#glavni h1 {
+  font-size: 50px;
+  font-weight: bold; }
+
+#btn1 {
+  width: 150px;
+  margin-right: 10px; }
+
+#btn2 {
+  width: 150px; }
+
+#butons {
+  position: absolute;
+  top: 52%;
+  left: 44%; }
+
+#btn1:hover {
+  background-color: orange; }
+
+#down {
+  position: absolute;
+  top: 75%;
+  left: 51%; }
+
+.circle {
+  width: 150px;
+  height: 150px;
+  border: gray 1px solid;
+  border-radius: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px; }
+
+#wrapper {
+  margin-bottom: 7%; }
+
+.first {
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column; }
+  .first h4 {
+    margin-bottom: 15px; }
+
+.tata {
+  margin-bottom: 100px; }
+
+.pozadina {
+  background-image: url("/img/newsletter-background.jpg"); }
+
+/*# sourceMappingURL=style.css.map */

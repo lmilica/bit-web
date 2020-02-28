@@ -1,0 +1,17 @@
+.pt2 {
+    background-color: aqua;
+}
+
+.pt3 {
+    background-color: teal;
+    text-decoration: line-through;
+}
+
+.pt4 {
+    background-color: violet;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.active{
+    background-color: orange;
+}

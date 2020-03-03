@@ -1,0 +1,37 @@
+
+/* .btn{
+    background-color: blue;
+
+}
+.btnOFF{
+    background-color: yellow;
+} */
+
+/* .btn{
+    background-color: red;
+    color: white;
+}
+.container{
+    max-width: 720px;
+    width: 100%;
+    height: 700px;
+
+}
+.wrapper{
+    position: absolute;
+    bottom :20px;
+} */
+
+body{
+    background-image: url("../MLazic/images/field.png");
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    padding: 0%;
+    background-size:cover;
+}
+#player{
+    position: absolute;
+    height: 80px;
+    left: 23px;
+}

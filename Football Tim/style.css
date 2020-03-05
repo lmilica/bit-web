@@ -1,0 +1,38 @@
+*{
+    box-sizing: content-box;
+}
+body{
+    background-color: rgb(17, 165, 170);
+}
+
+#main-players {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+#replacements{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.player-container {
+    display: block;
+    height: 260px;
+    width: 200px;
+    text-align: center;
+    border: 1px solid #ffffff;
+    margin-bottom: 40px;
+}
+
+img{
+    margin-top: 5px;
+}
+span{
+    display: block;
+}

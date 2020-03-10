@@ -3,7 +3,9 @@
     color: white;
     
 }
-
+h1 {
+    display: inline;
+}
 .hide-me{
     visibility: hidden;
 }
